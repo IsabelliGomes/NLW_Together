@@ -8,8 +8,8 @@
 
 - Cadastro de Tag
   - Não é permitido cadastrar mais de uma tag com o mesmo nome
-  - Não é permitido cadastrar uma tag sem nome
   - Não é permitido o cadastro de tags por usuários que não sejam administradores
+  - Não é permitido cadastrar uma tag sem nome
 
 - Cadastro de Elogios
   - Não é permitido um usuário cadastrar um elogio para si próprio
