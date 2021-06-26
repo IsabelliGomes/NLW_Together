@@ -29,7 +29,8 @@ class AuthenticateUserService {
 
     const token = sign({
       email: user.email
-    }, "1605b3c9c4edf4961b8784e490ed3239", {
+    },
+      "1605b3c9c4edf4961b8784e490ed3239", {
       subject: user.id,
       expiresIn: "1d",
     });
